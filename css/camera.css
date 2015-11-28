@@ -38,7 +38,7 @@
 }
 
 .camera_fakehover:before {
-	background-color: #7e7979;
+	background-color: #3b82ba;
 	content: '';
 	height: 72px;
 	bottom: 0;
